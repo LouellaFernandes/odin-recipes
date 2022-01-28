@@ -1,5 +1,10 @@
-.title {
-    
-    text-align: center;
+body {
+    background-color: rgb(255, 217, 0);
+}
+
+.title,
+.recipe-titles {
+    text-align: center;  
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
